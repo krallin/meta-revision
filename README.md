@@ -1,7 +1,7 @@
 Keyword:
 ========
-  
-  revision
+
+    revision
 
 
 Brief Description
@@ -15,7 +15,7 @@ This is a free format string.
 Specification URL
 =================
 
-TODO
+[https://github.com/krallin/meta-revision][0]
 
 
 Long Description
@@ -43,3 +43,6 @@ Do not use the revision number of:
 
   + Your web framework
   + Your site generator
+
+
+  [0]: https://github.com/krallin/meta-revision
