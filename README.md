@@ -15,7 +15,7 @@ This is a free format string.
 Specification URL
 =================
 
-[https://github.com/krallin/meta-revision][0]
+[github.com/krallin/meta-revision][0]
 
 
 Long Description
@@ -45,4 +45,12 @@ Do not use the revision number of:
   + Your site generator
 
 
+Examples
+========
+
+  + [www.scalr.com][1]
+  + Please submit a pull request to list your site here!
+
+
   [0]: https://github.com/krallin/meta-revision
+  [1]: http://www.scalr.com
