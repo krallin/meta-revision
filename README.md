@@ -48,9 +48,9 @@ Do not use the revision number of:
 Examples
 ========
 
-  + [www.scalr.com][1]
+  + [http://dev.w3.org/html5/webvtt/][1]
   + Please submit a pull request to list your site here!
 
 
   [0]: https://github.com/krallin/meta-revision
-  [1]: http://www.scalr.com
+  [1]: http://dev.w3.org/html5/webvtt/
